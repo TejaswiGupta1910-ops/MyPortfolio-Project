@@ -1,12 +1,12 @@
 {
   "name": "Tejaswi Gupta",
   "role": "Aspiring AI Developer",
-  "tagline": "Building modern web experiences with React.",
-  "about": "I am a computer science student passionate about AI and web development and solving real-world problems.",
+  "tagline": "Learning to code, Building Projects, and Growing Everyday.",
+  "about": "I'm a Computer Science student passionate about technology, programming, and problem-solving. I'm continuously learning and improving my skills in web development and software development, with a keen interest in exploring new technologies and building practical projects.I enjoy turning ideas into reality through code and believe in learning by doing. My goal is to grow as a developer, gain hands-on experience, and create meaningful digital solutions while continuously expanding my technical knowledge.",
   "goals": "I want to join a product team as an AI developer and keep learning from experienced engineers.",
   "interests": ["AI development", "Open source", "Problem solving", "UI design"],
   "profileImage": "/MyPhoto.jpeg",
-  "email": "aarav@example.com",
+  "email": "guptatejaswi773@gmail.com",
   "socials": {
     "github": "https://github.com/",
     "linkedin": "https://linkedin.com/"
@@ -46,7 +46,7 @@
   "education": [
     {
       "degree": "Bachelor of Computer Applications",
-      "college": "ABC College",
+      "college": "GL Bajaj Institute of Management",
       "year": "2026",
       "description": "Studying programming and web development."
     }
